@@ -1,0 +1,30 @@
+body{
+    padding:50px 100px;
+    min-width:30rem;
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color:coral;
+}
+#container{
+    text-align: center;
+    background-color:aquamarine;
+    padding:50px;
+    color:coral;
+}
+    .input-div{
+        display: inline-block;
+    }
+    .inp{
+        padding:5px 10px;
+        margin:10px;
+        font-size:30px;
+        font-weight: bold;
+        width: 250px;
+        text-align: center;
+        color:coral;
+    }
+    label{
+        font-size:22px;
+    }
